@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! Eu sou Gisele. Com mais de 20 anos de experiência na Secretaria de Saúde (SES-DF), desenvolvi um olhar crítico para a análise de processos, integridade de dados e resolução de problemas complexos. Hoje, uno essa maturidade profissional à tecnologia, atuando como Desenvolvedora em transição de carreira.
+
+Minha trajetória técnica inclui o domínio de C#, .NET e Bancos de Dados Relacionais (SQL Server), com forte foco em Desenvolvimento de APIs REST. Tenho explorado o potencial da IA Generativa e Engenharia de Prompt para otimizar o desenvolvimento de software. Atualmente cursando Gestão da Tecnologia da  Informação, busco oportunidades onde eu possa aplicar meu rigor analítico e minhas competências em codificação para criar soluções escaláveis e seguras."👋
 
 ---
 
