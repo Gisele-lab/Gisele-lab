@@ -1,18 +1,80 @@
 # 🚀Gisele Oliveira 
 **`Desenvolvedora Backend`**
 
-Minha trajetória técnica inclui o domínio de C#, .NET e Bancos de Dados Relacionais (SQL Server), com forte foco em Desenvolvimento de APIs REST. Tenho explorado o potencial da IA Generativa e Engenharia de Prompt para otimizar o desenvolvimento de software. Atualmente cursando Gestão da Tecnologia da  Informação, busco oportunidades onde eu possa aplicar meu rigor analítico e minhas competências em codificação para criar soluções escaláveis e seguras."👋
+Minha trajetória técnica inclui o domínio de C#, .NET, Node.js, JavaScript, Python e Bancos de Dados Relacionais (SQL Server), com forte foco em Desenvolvimento de APIs REST. Tenho explorado o potencial da IA Generativa e Engenharia de Prompt para otimizar o desenvolvimento de software. Atualmente cursando Gestão da Tecnologia da  Informação, busco oportunidades onde eu possa aplicar meu rigor analítico e minhas competências em codificação para criar soluções escaláveis e seguras."👋
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
 
-![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Node.js badge](https://img.shields.io/badge/node/v/:packageName/:tag?style+for-the-badge&logo=nodejs&logoColor=black)
+### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SqlServer"
+    title="SqlServer" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
 
 
 
@@ -43,18 +105,3 @@ Aqui estão alguns dos projetos que desenvolvi (ou estou desenvolvendo):
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gslcavalcante@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gisele-oliveira-371192368)
-
-<!--
-**Gisele-lab/Gisele-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
