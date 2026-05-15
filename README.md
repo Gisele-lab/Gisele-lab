@@ -1,4 +1,4 @@
-# 🚀🚀🚀 Gisele Oliveira 
+# 🚀Gisele Oliveira 
 ##`Desenvolvedora Backend`##
 
 Minha trajetória técnica inclui o domínio de C#, .NET e Bancos de Dados Relacionais (SQL Server), com forte foco em Desenvolvimento de APIs REST. Tenho explorado o potencial da IA Generativa e Engenharia de Prompt para otimizar o desenvolvimento de software. Atualmente cursando Gestão da Tecnologia da  Informação, busco oportunidades onde eu possa aplicar meu rigor analítico e minhas competências em codificação para criar soluções escaláveis e seguras."👋
@@ -11,6 +11,7 @@ Minha trajetória técnica inclui o domínio de C#, .NET e Bancos de Dados Relac
 ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js badge](https://img.shields.io/badge/Node.js-?style+for-the-badge&logo=nodejs&logoColor=black)
 
 ---
 
@@ -29,6 +30,8 @@ Aqui estão alguns dos projetos que desenvolvi (ou estou desenvolvendo):
 ---
 
 ### 📈 Estatísticas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Giselelab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giselelab&layout=compact&langs_count=7&theme=dracula)
