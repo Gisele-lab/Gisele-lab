@@ -96,8 +96,8 @@ Aqui estão alguns dos projetos que desenvolvi (ou estou desenvolvendo):
 
 ### 📈 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Giselelab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giselelab&layout=compact&langs_count=7&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gisele-lab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gisele-lab&layout=compact&langs_count=7&theme=dracula)
 
 ---
 
